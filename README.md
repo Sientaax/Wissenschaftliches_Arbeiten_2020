@@ -1,6 +1,6 @@
 # Wissenschaftliches_Arbeiten_2020
 
-![](screenshot.png)
+![](Anwendung.png)
 
 ## Voraussetzungen
 
